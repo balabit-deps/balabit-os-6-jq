@@ -3,3 +3,4 @@ remove-unecessary-rakefile-deps.patch
 patch-version-into-build.patch
 static-libjq-dynamic-libonig2.patch
 dont-distribute-duplicate-docs.patch
+CVE-2015-8863.patch
